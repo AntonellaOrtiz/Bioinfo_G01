@@ -26,6 +26,7 @@ Este es el repositorio para los recursos de clase del G1 de bioinformática.
 ## INFORMACIÓN ADICIONAL
 
 <https://bioinfotraining.bio.cam.ac.uk/>
+<https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax>
 
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
