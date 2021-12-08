@@ -32,3 +32,6 @@ Este es el repositorio para los recursos de clase del G1 de bioinformática.
 
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+    - Al fin!!
+Mi github <https://github.com/AntonellaOrtiz/bioinfo_g1>
