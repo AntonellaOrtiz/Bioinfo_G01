@@ -8,3 +8,9 @@ Saavedra y Stouffer (2013) estudiaron varias redes de polinizadores de plantas. 
 1. La resolución de la primera parte del ejercicio se encuentra en el archivo [netsize.sh](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize.sh).
 
 2. La resolución de la segunda parte del ejercicio se encuentra en el archivo [netsize_all.sh](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize_all.sh).
+
+> Especificaciones de mi dispositivo:
+> - Edición de Windows: Windows 11 Home
+> - Procesador: Intel(R) Core(TM) i5-8250U
+> - RAM instalada: 12.0 GB
+> - Tipo de sistema: sistema operativo de 64 bits, procesador x64
