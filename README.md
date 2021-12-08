@@ -1,6 +1,8 @@
 # BIOINFORMÁTICA G1
 Este es el repositorio para los recursos de clase del G1 de bioinformática.
 
+
+## Clase del 07/12/2021
 ## PRESENTACIONES
 
 - Introducción
