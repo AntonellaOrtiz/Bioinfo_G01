@@ -1,2 +1,8 @@
 # Ejercicio 1.10.3
 ## Parte 1.1
+
+cd Documents/6to/Bioinformática/CSB-master/unix/data/Saavedra2013
+wc -l n27.txt
+head -n 1 n27.txt | tr -d " " | tr -d "\n" | wc -c
+
+# falta imprimir contenido
