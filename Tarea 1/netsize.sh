@@ -13,4 +13,6 @@ c=$(head -n 1 n27.txt | tr -d " " | tr -d "\n" | wc -c)
 echo "Nombre=$n" > ../../../../resultados.txt
 echo "Filas=$f" >> ../../../../resultados.txt
 echo "Columnas=$c" >> ../../../../resultados.txt
+
+#Mostrar el contenido del archivo
 cat ../../../../resultados.txt
