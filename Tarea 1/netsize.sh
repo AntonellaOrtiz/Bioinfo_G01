@@ -10,4 +10,4 @@ n=n27.txt
 f=$(wc -l n27.txt)
 c=$(head -n 1 n27.txt | tr -d " " | tr -d "\n" | wc -c)
 
-#echo "Nombre=$Nombre" "Filas=$f" "Columnas=$c"
+echo "Nombre=$n" "Filas=$f" "Columnas=$c"
