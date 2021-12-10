@@ -3,3 +3,5 @@
 
 archivos=*.txt
 echo $archivos
+
+for data in $archivos; do wc -l $data; done
