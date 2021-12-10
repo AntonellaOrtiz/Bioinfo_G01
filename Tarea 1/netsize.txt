@@ -1,0 +1,3 @@
+Nombre=n27.txt
+Filas=27
+Columnas=5
