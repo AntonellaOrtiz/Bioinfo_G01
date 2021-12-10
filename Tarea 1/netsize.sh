@@ -10,9 +10,9 @@ n=n27.txt
 f=$(wc -l < n27.txt)
 c=$(head -n 1 n27.txt | tr -d " " | tr -d "\n" | wc -c)
 
-echo "Nombre=$n" > ../../../../resultados.txt
-echo "Filas=$f" >> ../../../../resultados.txt
-echo "Columnas=$c" >> ../../../../resultados.txt
+echo "Nombre=$n" > ../../../../netsize.txt
+echo "Filas=$f" >> ../../../../netsize.txt
+echo "Columnas=$c" >> ../../../../netsize.txt
 
 #Mostrar el contenido del archivo
-cat ../../../../resultados.txt
+cat ../../../../netsize.txt
