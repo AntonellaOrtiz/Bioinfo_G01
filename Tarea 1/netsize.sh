@@ -8,3 +8,5 @@ head -n 1 n27.txt | tr -d " " | tr -d "\n" | wc -c
 # falta imprimir contenido
 f=$(wc -l n27.txt)
 c=$(head -n 1 n27.txt | tr -d " " | tr -d "\n" | wc -c)
+
+Nombre=n27.txt
