@@ -10,7 +10,7 @@ n=n27.txt
 f=$(wc -l < n27.txt)
 c=$(head -n 1 n27.txt | tr -d " " | tr -d "\n" | wc -c)
 
-echo "Nombre=$n" > resultados.docx
-echo "Filas=$f" >> resultados.docx
-echo "Columnas=$c" >> resultados.docx
-cat resultados.docx
+echo "Nombre=$n" > ../../../../resultados.txt
+echo "Filas=$f" >> ../../../../resultados.txt
+echo "Columnas=$c" >> ../../../../resultados.txt
+cat ../../../../resultados.txt
