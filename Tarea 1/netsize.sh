@@ -14,16 +14,19 @@ head -n 1 n27.txt | tr -d " " | tr -d "\n" | wc -c
 
 # falta imprimir contenido
 
-#definiendo variable n
+#definiendo variabble n
 n=n27.txt
-#definiendo variable f
+#definiendo variable f con lo antes mencionado, añadí el < para que no se imprima
+#el nombre del archivo
 f=$(wc -l < n27.txt)
-#definiendo variable c
+#definiendo variable c con lo antes mencionado
 c=$(head -n 1 n27.txt | tr -d " " | tr -d "\n" | wc -c)
 
+#echo: imprime lo indicado dentro de " ", >: guarda lo que se imprime en el
+#archivo,>>: guarda lo que se imprime sin borrar lo anterior en el mismo archivo
 echo "Nombre=$n" > ../../../../netsize.txt
 echo "Filas=$f" >> ../../../../netsize.txt
 echo "Columnas=$c" >> ../../../../netsize.txt
 
-#Mostrar el contenido del archivo
+#Imprime el contenido del archivo
 cat ../../../../netsize.txt
