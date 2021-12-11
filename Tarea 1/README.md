@@ -5,9 +5,9 @@ Saavedra y Stouffer (2013) estudiaron varias redes de polinizadores de plantas. 
 
 ### Desarrollo:
 
-1. La resolución de la primera parte del ejercicio se encuentra en el archivo [netsize.sh](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize.sh).
+1. La resolución de la primera parte del ejercicio se encuentra en el archivo [netsize.sh](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize.sh) y los resultados en [netsize.txt](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize.txt).
 
-2. La resolución de la segunda parte del ejercicio se encuentra en el archivo [netsize_all.sh](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize_all.sh).
+2. La resolución de la segunda parte del ejercicio se encuentra en el archivo [netsize_all.sh](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize_all.sh) y los resultados en [netsize_all.txt](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize_all.txt).
 
 3. La resolución a la tercera parte del ejercicio se encuentra en el archivo [pregunta](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/pregunta.txt).
 
