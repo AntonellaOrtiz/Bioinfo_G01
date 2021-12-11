@@ -11,7 +11,7 @@ Saavedra y Stouffer (2013) estudiaron varias redes de polinizadores de plantas. 
 
 3. La resolución a la tercera parte del ejercicio se encuentra en el archivo [pregunta](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/pregunta.txt).
 
-> Especificaciones de mi dispositivo:
+> Especificaciones de mi dispositivo: :computer:
 > - Edición de Windows: Windows 11 Home
 > - Procesador: Intel(R) Core(TM) i5-8250U
 > - RAM instalada: 12.0 GB
