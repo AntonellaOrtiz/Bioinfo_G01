@@ -16,3 +16,5 @@ Saavedra y Stouffer (2013) estudiaron varias redes de polinizadores de plantas. 
 > - Procesador: Intel(R) Core(TM) i5-8250U
 > - RAM instalada: 12.0 GB
 > - Tipo de sistema: sistema operativo de 64 bits, procesador x64
+
+![UNIVERSIDAD REGIONAL AMAZÓNICA IKIAM](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/Logo%20IKIAM.jpeg)
