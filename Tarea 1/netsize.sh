@@ -24,6 +24,7 @@ c=$(head -n 1 n27.txt | tr -d " " | tr -d "\n" | wc -c)
 
 #echo: imprime lo indicado dentro de " ", >: guarda lo que se imprime en el
 #archivo,>>: guarda lo que se imprime sin borrar lo anterior en el mismo archivo
+#../:se retrocede directorios hasta llegar al elegido
 echo "Nombre=$n" > ../../../../netsize.txt
 echo "Filas=$f" >> ../../../../netsize.txt
 echo "Columnas=$c" >> ../../../../netsize.txt
