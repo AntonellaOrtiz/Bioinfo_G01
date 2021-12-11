@@ -5,9 +5,9 @@ Saavedra y Stouffer (2013) estudiaron varias redes de polinizadores de plantas. 
 
 ### Desarrollo:
 
-1. La resolución de la primera parte del ejercicio donde se escribe un script que tome uno de los archivos y determine el número de filas (polinizadores) y columnas (plantas). El script se encuentra en el archivo [netsize.sh](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize.sh) y los resultados en [netsize.txt](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize.txt).
+1. En la resolución para la primera parte del ejercicio es necesario escribir un script que tome uno de los archivos y determine el número de filas (polinizadores) y columnas (plantas). El script se encuentra en el archivo [netsize.sh](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize.sh) y los resultados en [netsize.txt](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize.txt).
 
-2. La resolución de la segunda parte del ejercicio se escribe un script que imprima los números de filas y columnas para cada archivo de la carpeta. El script se encuentra en el archivo [netsize_all.sh](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize_all.sh) y los resultados en [netsize_all.txt](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize_all.txt).
+2. En la resolución para la segunda parte del ejercicio es necesario escribir un script que imprima los números de filas y columnas para cada archivo de la carpeta. El script se encuentra en el archivo [netsize_all.sh](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize_all.sh) y los resultados en [netsize_all.txt](https://github.com/AntonellaOrtiz/bioinfo_g1/blob/main/Tarea%201/netsize_all.txt).
 
 > Especificaciones de mi dispositivo: :computer:
 > - Edición de Windows: Windows 11 Home
