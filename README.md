@@ -6,9 +6,9 @@ Este es el repositorio para los recursos de clase del G1 de bioinformática.
 ## PRESENTACIONES
 
 - Introducción
-- Unix
+- Unix (Git Bash)
 - Git
-- PythonR
+- PythonR (Jupyter Notebook)
 
 ## VIDEOS DE SESIONES SINCRÓNICAS
 
